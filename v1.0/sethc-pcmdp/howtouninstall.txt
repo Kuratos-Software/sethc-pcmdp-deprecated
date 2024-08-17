@@ -1,0 +1,1 @@
+Nope! You need to go into taskmgr and turn off any sethc-pcmdp related apps fully. (I dont know why they keep running, Dont accuse me of making it a virus. Its open source. After that, Just delete the folder and the sethc.exe in C:/Windows/System32 you copied over, And replace it with the old one by renaming or copying your backup back to that spot, With the name "sethc.exe".
